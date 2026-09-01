@@ -1,1 +1,3 @@
-Hallo Marc, ich habe die Commands-Datei bearbeitet. Gruss, Gregor
+Korrigierte Commands-Datei....
+
+ALLES BESSER JETZT
