@@ -1,3 +1,3 @@
 Korrigierte Commands-Datei....
 
-ALLES BESSER JETZT
+ALLES SCHLECHTER JETZT
